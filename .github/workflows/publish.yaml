@@ -31,28 +31,34 @@ jobs:
         with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
+
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
+        uses: peaceiris/actions-hugo@v3
+        with: # ✅ updated to v3 (latest maintained version)
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
-      - uses: actions/cache@v3
+
+      - name: Cache Hugo modules
+        uses: actions/cache@v4 # ✅ updated to v4
         with:
           path: /tmp/hugo_cache_runner/
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
+
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5 # ✅ updated to v5 (current version)
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3 # ✅ corrected to v3 (latest)
         with:
           path: ./public
 
@@ -67,4 +73,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4 # ✅ updated to v4 (latest)
