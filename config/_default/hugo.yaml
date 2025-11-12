@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Michael Stelzig # Website name
-baseURL: 'https://michaelstelzig.com/' # Website URL 
+baseURL: 'https://michaelstelzig.github.io/' # Website URL 
 
 ############################
 ## LANGUAGE
