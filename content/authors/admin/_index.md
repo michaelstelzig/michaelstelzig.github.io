@@ -101,7 +101,7 @@ social:
 highlight_name: true
 ---
 
-I am a Doctoral Student at the Department of Political Science at the University of Zurich, supervised by Prof. Stefanie Walter. My research explores international security and international political economy, with an empirical focus on the economics of conflict.
+I am an incoming Doctoral Student in Political Science at the University of Zurich (starting January 2026), supervised by Prof. Stefanie Walter. My research focuses on international security and international political economy, with an empirical focus on the economics of conflict.
 
 Prior to starting my Ph.D., I gained research and policy experience at DIW Berlin and the ifo Institute. I hold an M.A. in Political Science (with distinction) from ETH Zurich and a B.A. in Political Science from the University of Munich.
 

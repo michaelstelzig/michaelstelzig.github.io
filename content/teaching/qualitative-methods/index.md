@@ -1,9 +1,8 @@
 ---
 title: Introduction in Qualitative Methods (B.A. Tutorial)
-summary: '*Teaching Assistant for Prof. Stefanie Walter*'
+summary: '*Spring 2026, Teaching Assistant for Prof. Stefanie Walter*'
 tags:
-  - qualitative
-  - methods
+  - qualitative methods
   - tutorial
 date: '2013-06-01T00:00:00Z'
 show_date: False

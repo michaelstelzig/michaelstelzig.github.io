@@ -3,17 +3,17 @@ name = "Custom"
 
 [light]
   # Primary
-  primary = "#1C837B"
+  primary = "#005249"
 
   # Links
-  link = "#1C837B"
-  link_hover = "#1C837B"
+  link = "#005249"
+  link_hover = "#005249"
 
   # Menu
   menu_primary = "#fefefe"
-  menu_text = "#1C837B"
-  menu_text_active = "#1C837B"
-  menu_title = "#1C837B"
+  menu_text = "#005249"
+  menu_text_active = "#005249"
+  menu_title = "#005249"
 
   # Home sections
   home_section_odd = "#fefefe"

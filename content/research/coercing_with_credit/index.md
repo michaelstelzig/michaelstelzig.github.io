@@ -26,7 +26,7 @@ tags:
 - Economic Sanctions
 - State-to-State Lending
 - Official Lending
-featured: false
+featured: true
 
 # links:
 # - name: ""

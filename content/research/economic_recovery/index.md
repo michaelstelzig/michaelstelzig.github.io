@@ -27,7 +27,7 @@ tags:
 - Economic Recovery
 - Economic Reconstruction
 - Civil Wars
-featured: false
+featured: true
 
 # links:
 # - name: ""
