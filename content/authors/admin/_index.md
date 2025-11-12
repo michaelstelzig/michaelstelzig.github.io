@@ -77,7 +77,7 @@ social:
     link: 'mailto:michaeljohannes.stelzig@uzh.ch'
   - icon: linkedin
     icon_pack: fab
-    link: 'www.linkedin.com/in/michael-johannes-stelzig'
+    link: 'https://www.linkedin.com/in/michael-johannes-stelzig/'
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.com/citations?user=YThjGVkAAAAJ&hl=en
