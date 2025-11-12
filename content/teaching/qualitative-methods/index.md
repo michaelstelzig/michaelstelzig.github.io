@@ -1,6 +1,6 @@
 ---
-title: Introduction in Qualitative Methods
-summary: '*Undergraduate Tutorial*'
+title: Introduction in Qualitative Methods (B.A. Tutorial)
+summary: '*Teaching Assistant for Prof. Stefanie Walter*'
 tags:
   - qualitative
   - methods
@@ -33,5 +33,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-For more information about the course, check out: ...

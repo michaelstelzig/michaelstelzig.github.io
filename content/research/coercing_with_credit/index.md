@@ -1,8 +1,8 @@
 ---
-title: "Coercing with Credit: Economic Sanctions and State-to-State Lending"
+title: "Coercing with Credit: Economic Sanctions and State-to-State Lending (Work In Progress)"
 authors:
 - admin
-# date: "2020-08-18T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 # doi: "10.1177/8755293020950328"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,21 +17,21 @@ publication_types: ["article-journal"]
 # publication: "*Earthquake Spectra, 37*(1)"
 # publication_short: ""
 
-abstract: 'Abstract of Working Paper'
+abstract: 'Economic sanctions are the central tool of economic coercion, yet their effects on state-to-state lending remain largely unclear. This study argues that sanctions reduce bilateral official lending from sanctioning to sanctioned states. It also contends that third-party states adjust lending based on their economic and political ties: those more exposed to the sanctioning state tend to reduce bilateral lending, while those more exposed to the sanctioned state often increase it. Using sanctions data from the Global Sanctions Database and lending data from theWorld Bank’s International Debt Statistics, the study analyzes 120 emerging and developing countries since the end of the ColdWar. Gravity and event study models reveal that sanctions lower bilateral official lending by around 25% on average, with reductions of 30–35% over the medium to long term. These findings contribute to broader debates on the growing use of sanctions and the rising geopolitical fragmentation of global capital flows.'
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Economic sanctions are the central tool of economic coercion, yet their effects on state-to-state lending remain largely unclear. This study argues that sanctions reduce bilateral official lending from sanctioning to sanctioned states. It also contends that third-party states adjust lending based on their economic and political ties: those more exposed to the sanctioning state tend to reduce bilateral lending, while those more exposed to the sanctioned state often increase it. Using sanctions data from the Global Sanctions Database and lending data from theWorld Bank’s International Debt Statistics, the study analyzes 120 emerging and developing countries since the end of the ColdWar. Gravity and event study models reveal that sanctions lower bilateral official lending by around 25% on average, with reductions of 30–35% over the medium to long term. These findings contribute to broader debates on the growing use of sanctions and the rising geopolitical fragmentation of global capital flows.'
 
 tags:
-- economic sanctions
-- state-to-state lending
-- official lending
-featured: true
+- Economic Sanctions
+- State-to-State Lending
+- Official Lending
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://journals.sagepub.com/doi/pdf/10.1177/8755293020950328'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

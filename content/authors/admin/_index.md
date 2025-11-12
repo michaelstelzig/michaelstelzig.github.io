@@ -25,7 +25,7 @@ organizations:
     url: https://www.ipz.uzh.ch/en/people/employees/mstelz.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researching economics of conflict
+bio: ''
 
 # # Interests to show in About widget
 # interests:
@@ -77,7 +77,7 @@ social:
     link: 'mailto:michaeljohannes.stelzig@uzh.ch'
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/michael-johannes-stelzig
+    link: 'www.linkedin.com/in/michael-johannes-stelzig'
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.com/citations?user=YThjGVkAAAAJ&hl=en
@@ -101,16 +101,18 @@ social:
 highlight_name: true
 ---
 
-Here is my description.
+I am a Doctoral Student at the Department of Political Science at the University of Zurich, supervised by Prof. Stefanie Walter. My research explores international security and international political economy, with an empirical focus on the economics of conflict.
+
+Prior to starting my Ph.D., I gained research and policy experience at DIW Berlin and the ifo Institute. I hold an M.A. in Political Science (with distinction) from ETH Zurich and a B.A. in Political Science from the University of Munich.
 
 <div class="container">
   <div class="row justify-content-between">
     <div class="col">
       <h3>Interests</h3>
         <ul>
-        <li>Seismic hazard assessment</li>
-        <li>Global risk modelling</li>
-        <li>Machine learning in structural resilience</li>
+        <li>Geopolitics</li>
+        <li>Geoeconomics</li>
+        <li>Economics of Conflict</li>
         </ul>
         <!-- <ul class="fa-ul">
         <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Global Earthquake Model, 2019-2023</li>

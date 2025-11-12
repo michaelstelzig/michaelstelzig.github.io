@@ -1,8 +1,8 @@
 ---
-title: "From Destruction to Development: Foreign Aid and Economic Reconstruction after CivilWars"
+title: "From Destruction to Development: Foreign Aid and Economic Reconstruction after Civil Wars (Work In Progress)"
 authors:
 - admin
-# date: "2020-08-18T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 # doi: "10.1177/8755293020950328"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,22 +17,22 @@ publication_types: ["article-journal"]
 # publication: "*Earthquake Spectra, 37*(1)"
 # publication_short: ""
 
-abstract: 'Abstract of Working Paper'
+abstract: 'This study examines the effect of foreign aid projects on subnational economic recovery after civil wars. The central argument is that foreign aid projects foster regional economic recovery by rebuilding economic infrastructure, improving social infrastructure, and stimulating the productive sectors of the economy. To test this theoretical argument, the study combines geocoded data on aid projects from theWorld Bank, China, the United States, and 18 European donors with granular data on nightlight intensity. The analysis covers 40,687 subnational regions across 151 countries, with annual data from 1995 to 2020. The regression results show that regions receiving foreign aid after civil wars experience higher nightlight intensity, indicating stronger economic recovery. These effects are particularly pronounced for aid projects targeting social infrastructure and production sectors, and for aid projects provided by the United States and theWorld Bank. Further analysis reveals that democratic institutions enhance the effectiveness of aid in post-conflict areas, while prolonged civil wars in the past and postwar violence diminish its effectiveness.'
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'This study examines the effect of foreign aid projects on subnational economic recovery after civil wars. The central argument is that foreign aid projects foster regional economic recovery by rebuilding economic infrastructure, improving social infrastructure, and stimulating the productive sectors of the economy. To test this theoretical argument, the study combines geocoded data on aid projects from theWorld Bank, China, the United States, and 18 European donors with granular data on nightlight intensity. The analysis covers 40,687 subnational regions across 151 countries, with annual data from 1995 to 2020. The regression results show that regions receiving foreign aid after civil wars experience higher nightlight intensity, indicating stronger economic recovery. These effects are particularly pronounced for aid projects targeting social infrastructure and production sectors, and for aid projects provided by the United States and theWorld Bank. Further analysis reveals that democratic institutions enhance the effectiveness of aid in post-conflict areas, while prolonged civil wars in the past and postwar violence diminish its effectiveness.'
 
 tags:
-- foreign aid
-- economic recovery
-- economic reconstructions
-- post-conflict
-featured: true
+- Foreign Aid
+- Economic Recovery
+- Economic Reconstruction
+- Civil Wars
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://journals.sagepub.com/doi/pdf/10.1177/8755293020950328'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
