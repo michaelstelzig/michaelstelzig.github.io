@@ -2,7 +2,7 @@
 title: "From Destruction to Development: Foreign Aid and Economic Reconstruction after Civil Wars (Work In Progress)"
 authors:
 - admin
-date: "2026-01-01T00:00:00Z"
+date: "2025-10-31T00:00:00Z"
 # doi: "10.1177/8755293020950328"
 
 # Schedule page publish date (NOT publication's date).
