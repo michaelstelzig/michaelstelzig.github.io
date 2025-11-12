@@ -109,7 +109,7 @@ Prior to starting my Ph.D., I gained research and policy experience at DIW Berli
   <div class="row justify-content-between">
     <div class="col">
       <h3>Interests</h3>
-        <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <ul>
         <li>Geopolitics</li>
         <li>Geoeconomics</li>
         <li>Economics of Conflict</li>
