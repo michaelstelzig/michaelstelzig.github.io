@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Nicole Paul
+title: Michael Stelzig
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Nicole
-last_name: Paul
+first_name: Michael
+last_name: Stelzig
 
 # Status emoji
 status:
@@ -21,11 +21,11 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: DE|RISC Lab
-    url: https://www.carminegalassoresearch.com/
+  - name: University of Zurich
+    url: https://www.ipz.uzh.ch/en/people/employees/mstelz.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researching population displacement in disasters
+bio: Researching economics of conflict
 
 # # Interests to show in About widget
 # interests:
@@ -74,28 +74,28 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nicole.paul.22@ucl.ac.uk'
+    link: 'mailto:michaeljohannes.stelzig@uzh.ch'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/nicoleapaul/
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=YThjGVkAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/nicolepaul
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/nicopurr
-    label: Follow me on Twitter
-    display:
-      header: false
+    link: www.linkedin.com/in/michael-johannes-stelzig
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.com/citations?user=YThjGVkAAAAJ&hl=en
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/nicolepaul
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/nicopurr
+  #   label: Follow me on Twitter
+    # display:
+    #   header: false
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -106,21 +106,26 @@ I'm currently researching household displacement due to disasters at University 
 <div class="container">
   <div class="row justify-content-between">
     <div class="col">
-      <h3>Experience</h3>
-        <ul class="fa-ul">
+      <h3>Interests</h3>
+        <ul>
+        <li>Seismic hazard assessment</li>
+        <li>Global risk modelling</li>
+        <li>Machine learning in structural resilience</li>
+        </ul>
+        <!-- <ul class="fa-ul">
         <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Global Earthquake Model, 2019-2023</li>
         <li><span class="portrait-title"><h3>Pavia, Italy</h3></span></li>
         <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Arup, Risk and Resilience, 2014-2019</li>
         <li><span class="portrait-title"><h3>San Francisco, CA, USA</h3></li>
-        </ul>
+        </ul> -->
     </div>
     <div class="col">
       <h3>Education</h3>
         <ul class="fa-ul">
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Structural Engineering, 2015</li>
-        <li><span class="portrait-title"><h3>Stanford University</h3></li>
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BSc Civil Engineering, 2013</li>
-        <li><span class="portrait-title"><h3>University of California, Berkeley</h3></li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MA Political Science, 2025</li>
+        <li><span class="portrait-title"><h3>ETH Zurich</h3></li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BA Political Science, 2022</li>
+        <li><span class="portrait-title"><h3>University of Munich</h3></li>
         </ul>
     </div>
   </div>
