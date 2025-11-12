@@ -20,7 +20,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Hi, I’m Michael Stelzig! 👋 I’m a doctoral student in political science at the University of Zurich. My research is supervised by Prof. Stefanie Walter (University of Zurich) and Prof. Andreas Wenger (ETH Zurich).' # TODO
-    twitter: 'nicopurr'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,10 +35,10 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: false
     highlight_active_link: true
 
@@ -56,8 +56,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2 Jan 2006'
+  time_format: '15:04 PM'
   address_format: en-us
 
 # Site features
@@ -80,7 +80,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:
