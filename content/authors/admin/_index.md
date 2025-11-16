@@ -31,8 +31,8 @@ avatar:
   image: "avatar.jpg"
   shape: "circle"
   display:
-    width: 150
-    height: 150
+    width: 200
+    height: 200
 
 # # Interests to show in About widget
 # interests:
