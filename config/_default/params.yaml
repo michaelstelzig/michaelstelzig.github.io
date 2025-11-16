@@ -74,6 +74,8 @@ features:
     content_dir: content
     branch: main
   avatar:
+    image: "profilfoto.png"
+    width: 150
     gravatar: false
     shape: circle
   comment:
