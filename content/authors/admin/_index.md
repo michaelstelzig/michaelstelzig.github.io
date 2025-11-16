@@ -100,12 +100,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-avatar:
-  image: avatar.jpg
-  is_highres: true
-  shape: circle
-  gravatar: false
-  
 ---
 
 I am an incoming Doctoral Student in Political Science at the University of Zurich (starting January 2026), supervised by Prof. Stefanie Walter. My research focuses on international security and international political economy, with an empirical focus on the economics of conflict.
