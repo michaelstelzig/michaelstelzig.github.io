@@ -27,6 +27,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
+avatar:
+  image: "avatar.jpg"
+  shape: "circle"
+  display:
+    width: 150
+    height: 150
+
 # # Interests to show in About widget
 # interests:
 #   - Interest 1
