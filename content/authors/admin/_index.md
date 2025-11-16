@@ -27,13 +27,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-avatar:
-  image: "avatar.jpg"
-  shape: "circle"
-  display:
-    width: 200
-    height: 200
-
 # # Interests to show in About widget
 # interests:
 #   - Interest 1
@@ -106,6 +99,13 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+avatar:
+  image: avatar.jpg
+  is_highres: true
+  shape: circle
+  gravatar: false
+  
 ---
 
 I am an incoming Doctoral Student in Political Science at the University of Zurich (starting January 2026), supervised by Prof. Stefanie Walter. My research focuses on international security and international political economy, with an empirical focus on the economics of conflict.
