@@ -74,7 +74,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:michaeljohannes.stelzig@uzh.ch'
+    link: 'mailto:michael.stelzig@ipz.uzh.ch'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/michael-johannes-stelzig/
@@ -102,7 +102,7 @@ highlight_name: true
 
 ---
 
-I am an incoming Doctoral Student in Political Science at the University of Zurich (starting January 2026), supervised by Prof. Stefanie Walter. My research focuses on international security and international political economy, with an empirical focus on the economics of conflict.
+I am a first-year doctoral student in Political Science at the University of Zurich, supervised by Prof. Stefanie Walter. My research examines international security and international political economy, with an empirical focus on the geopolitics of sovereign debt.
 
 Prior to starting my Ph.D., I gained research and policy experience at DIW Berlin and the ifo Institute in Munich. I hold an M.A. in Political Science (with distinction) from ETH Zurich and a B.A. in Political Science from the University of Munich.
 
@@ -113,7 +113,7 @@ Prior to starting my Ph.D., I gained research and policy experience at DIW Berli
         <ul>
         <li>Geopolitics</li>
         <li>Geoeconomics</li>
-        <li>Economics of Conflict</li>
+        <li>Sovereign Debt</li>
         </ul>
         <!-- <ul class="fa-ul">
         <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Global Earthquake Model, 2019-2023</li>
