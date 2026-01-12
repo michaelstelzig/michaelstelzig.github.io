@@ -1,8 +1,8 @@
 ---
 title: "Coercing with Credit: Economic Sanctions and State-to-State Lending (Work In Progress)"
-authors:
-- admin
-date: "2025-10-31T00:00:00Z"
+# authors:
+# - admin
+# date: "2025-10-31T00:00:00Z"
 # doi: "10.1177/8755293020950328"
 
 # Schedule page publish date (NOT publication's date).
